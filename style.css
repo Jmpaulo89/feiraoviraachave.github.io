@@ -83,7 +83,7 @@ p {
     height: 100vh;
     background-repeat: no-repeat;
     color: white;
-    background-size:50%;
+    background-size:100%;
     background-position: bottom center;
     display: flex;
     justify-content: center;
