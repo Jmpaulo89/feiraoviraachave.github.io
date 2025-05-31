@@ -80,7 +80,7 @@ p {
 
 
 .hero {
-    background-image: url('feiraoviraachave.github.io/Imagens/Feirao.jpg');
+    background-image: url('/Imagens/Feirao.jpg');
     height: 100vh;
     background-repeat: no-repeat;
     color: white;
